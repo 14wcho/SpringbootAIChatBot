@@ -2,7 +2,7 @@
 
 A simple demo that integrates ChatGPT (or another OpenAI-compatible LLM) with a Java Spring Boot backend and a frontend built using VS Code. This project was implemented following: https://www.youtube.com/watch?v=FJzzCqsTnSM
 
-![App Screenshot](SpringbootAIChatBot\screenshot of springboot ai application.jpg)
+![App Screenshot](SpringbootAIChatBot/screenshot-of-springboot-ai-application.jpg)
 
 ## Table of Contents
 
